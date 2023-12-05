@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\Shapes\Cars\bin\Debug\net6.0\Cars.exe
+C:\SoftUni-OOP\Shapes\Cars\bin\Debug\net6.0\Cars.deps.json
+C:\SoftUni-OOP\Shapes\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+C:\SoftUni-OOP\Shapes\Cars\bin\Debug\net6.0\Cars.dll
+C:\SoftUni-OOP\Shapes\Cars\bin\Debug\net6.0\Cars.pdb
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\Cars.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\Cars.dll
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\refint\Cars.dll
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\Cars.pdb
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+C:\SoftUni-OOP\Shapes\Cars\obj\Debug\net6.0\ref\Cars.dll
